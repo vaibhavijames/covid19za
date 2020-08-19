@@ -23,4 +23,4 @@ NICD Epidemiology briefings are taken as source. Week 17 number of tests are com
 
 Columns separated by columns. For column labels tabs separate the province name from the data field
    
--[ ]update spreadsheet
+- [ ] update spreadsheet
